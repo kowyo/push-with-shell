@@ -12,7 +12,7 @@
 
 ### Usage📃
 
-将脚本push-with-shell.sh放在仓库的根目录
+将脚本 push-with-shell.sh 放在仓库的根目录
 
 然后在Bash终端输入
 
